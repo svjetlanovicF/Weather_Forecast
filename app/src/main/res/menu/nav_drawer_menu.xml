@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/home"
+            android:title="@string/home"/>
+
+        <item android:id="@+id/weekly_weather"
+            android:title="@string/seven_day_forecast"/>
+
+        <item android:id="@+id/air_pollution"
+            android:title="@string/air_pollution"/>
+
+        <item android:id="@+id/vega"
+            android:title="@string/vega_it_beta_tim"
+            android:icon="@drawable/link_to_vega"/>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="home">Home</string>
+    <string name="seven_day_forecast">7-day forecast</string>
+    <string name="vega_it_beta_tim">Vega IT Beta tim</string>
+    <string name="feels_like">Feels-like: %s°C</string>
+    <string name="hour">%sh</string>
+    <string name="temperature">%s°C</string>
+    <string name="description">Description:\n%s</string>
+    <string name="image_url">"http://openweathermap.org/img/w/%s.png"</string>
+    <string name="get_weekly_weather_url">https://api.openweathermap.org/data/2.5/onecall?&amp;lat=%s&amp;lon=%s&amp;exclude=minutely,hourly,current&amp;appid=98950a3fdc0497fea5a74bea994e3755</string>
+    <string name="get_weather_url">http://api.openweathermap.org/data/2.5/weather?lat=%s&amp;lon=%s&amp;appid=98950a3fdc0497fea5a74bea994e3755</string>
+    <string name="get_air_pollution">http://api.openweathermap.org/data/2.5/air_pollution/history?lat=%s&amp;lon=%s&amp;start=%s&amp;end=%s&amp;appid=98950a3fdc0497fea5a74bea994e3755</string>
+    <string name="sunset">Sunset:</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="wind">Wind:</string>
+    <string name="air_pollution">Air pollution</string>
+</resources>
